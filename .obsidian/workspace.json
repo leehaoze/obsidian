@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "1486f33448225ef8",
+        "id": "98bef2fb8f9ea1ac",
         "type": "tabs",
         "children": [
           {
-            "id": "21b69c65790070ef",
+            "id": "262f35a36ac24214",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "使用说明/自定义CSS.md",
+                "file": "Rational Agent.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7a09085b40ce13ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server Sent Events.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用说明/自定义CSS.md",
+                "file": "Server Sent Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "使用说明/自定义CSS.md",
+                "file": "Server Sent Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用说明/自定义CSS.md"
+                "file": "Server Sent Events.md"
               }
             }
           },
@@ -159,15 +173,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "21b69c65790070ef",
+  "active": "7a09085b40ce13ec",
   "lastOpenFiles": [
+    "Rational Agent.md",
+    "Server Sent Events.md",
+    "LLM Powered Autonomous Agents.md",
+    "Agent.md",
+    "In-Context Learning.md",
+    "使用说明/自定义CSS.md",
     "使用说明/选项.md",
     "使用说明/核心插件.md",
     "使用说明/插件.md",
-    "LLM Powered Autonomous Agents.md",
-    "Rational Agent.md",
-    "In-Context Learning.md",
-    "Agent.md",
     "使用说明.md",
     "使用说明/变更历史/2024-01-16 使用间歇式日记.md",
     "使用说明/变更历史/2024-01-08 仓库初始化.md",
@@ -188,8 +204,6 @@
     "02-文献笔记/001-名词解释/愚民政策.md",
     "02-文献笔记/001-名词解释/RLHF.md",
     "02-文献笔记/间歇式日记带来的好处.md",
-    "02-文献笔记/拖延症是一种情绪问题.md",
-    "02-文献笔记/局部性原理.md",
     "02-文献笔记/001-名词解释",
     "02-文献笔记",
     "01-闪念笔记",
