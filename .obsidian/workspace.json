@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM Powered Autonomous Agents.md",
+                "file": "使用说明/自定义CSS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM Powered Autonomous Agents.md",
+                "file": "使用说明/自定义CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM Powered Autonomous Agents.md",
+                "file": "使用说明/自定义CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM Powered Autonomous Agents.md"
+                "file": "使用说明/自定义CSS.md"
               }
             }
           },
@@ -161,8 +161,11 @@
   },
   "active": "21b69c65790070ef",
   "lastOpenFiles": [
-    "Rational Agent.md",
+    "使用说明/选项.md",
+    "使用说明/核心插件.md",
+    "使用说明/插件.md",
     "LLM Powered Autonomous Agents.md",
+    "Rational Agent.md",
     "In-Context Learning.md",
     "Agent.md",
     "使用说明.md",
@@ -187,9 +190,6 @@
     "02-文献笔记/间歇式日记带来的好处.md",
     "02-文献笔记/拖延症是一种情绪问题.md",
     "02-文献笔记/局部性原理.md",
-    "02-文献笔记/如何进行间歇式日记.md",
-    "02-文献笔记/如何提高LLM的响应速度.md",
-    "02-文献笔记/大模型做对话状态追踪的两个独立步骤.md",
     "02-文献笔记/001-名词解释",
     "02-文献笔记",
     "01-闪念笔记",
