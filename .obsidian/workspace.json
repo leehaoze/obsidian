@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "98bef2fb8f9ea1ac",
+        "id": "cf9517a0d2075ccd",
         "type": "tabs",
         "children": [
           {
-            "id": "262f35a36ac24214",
+            "id": "cc374d9cbbbd54cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rational Agent.md",
+                "file": "Server Sent Events.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -21,13 +21,13 @@
             }
           },
           {
-            "id": "7a09085b40ce13ec",
+            "id": "5aa73c3ad37bef41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server Sent Events.md",
-                "mode": "source",
+                "file": "使用说明.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server Sent Events.md",
+                "file": "使用说明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server Sent Events.md",
+                "file": "使用说明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server Sent Events.md"
+                "file": "使用说明.md"
               }
             }
           },
@@ -173,18 +173,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7a09085b40ce13ec",
+  "active": "5aa73c3ad37bef41",
   "lastOpenFiles": [
-    "Rational Agent.md",
-    "Server Sent Events.md",
-    "LLM Powered Autonomous Agents.md",
     "Agent.md",
+    "HTTP协议概述.md",
+    "HTTP协议中服务端不能主动向客户端发送消息.md",
+    "Hypertext.md",
     "In-Context Learning.md",
+    "LLM Powered Autonomous Agents.md",
+    "Server Sent Events.md",
+    "Rational Agent.md",
+    "使用说明.md",
     "使用说明/自定义CSS.md",
     "使用说明/选项.md",
     "使用说明/核心插件.md",
     "使用说明/插件.md",
-    "使用说明.md",
     "使用说明/变更历史/2024-01-16 使用间歇式日记.md",
     "使用说明/变更历史/2024-01-08 仓库初始化.md",
     "使用说明/变更历史",
@@ -201,9 +204,6 @@
     "03-永久笔记/对于知识管理的看法.md",
     "03-永久笔记/永久笔记.md",
     "03-永久笔记",
-    "02-文献笔记/001-名词解释/愚民政策.md",
-    "02-文献笔记/001-名词解释/RLHF.md",
-    "02-文献笔记/间歇式日记带来的好处.md",
     "02-文献笔记/001-名词解释",
     "02-文献笔记",
     "01-闪念笔记",

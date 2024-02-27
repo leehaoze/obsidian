@@ -1,6 +1,6 @@
 ---
 date created: 星期日, 二月 18日 2024, 3:31:33 下午
-date modified: 星期日, 二月 18日 2024, 5:15:48 下午
+date modified: 星期二, 二月 27日 2024, 11:26:03 上午
 tags: 
 ---
 
@@ -8,7 +8,7 @@ tags:
 
 ## LLM Agent System Overview
 
-LLM[[Agent]]系统以LLM为核心，包含三个关键组件：
+LLM [[Agent]]系统以LLM为核心，包含三个关键组件：
 - **Planning**
 	- **Subgoal and decomposition**: Agent将原始任务，分解为更小、可管理的子目标，以高效的处理复杂任务
 	- **Reflection and refinement**: Agent对过去的行动进行反思，从错误中吸取教训以提高最终结果的质量
