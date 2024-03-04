@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c5feac3f419277d1",
+        "id": "c4675f51137fc4f5",
         "type": "tabs",
         "children": [
           {
-            "id": "605c4f627160836e",
+            "id": "92dd9afc09dfb2bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "使用说明/插件.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "df56edaac1f20720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "使用说明/git解决status时文件名显示为八进制字符串.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "44c44abab2777726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "使用说明.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1f0ac55e52f6adce",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "cbc620acc532bfed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agent.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Agent.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,23 +142,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-projects:Open projects": false,
       "switcher:打开快速切换": true,
       "graph:查看关系图谱": false,
       "canvas:新建白板": true,
       "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": true,
-      "command-palette:打开命令面板": false,
-      "obsidian-projects:Open projects": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "cbc620acc532bfed",
+  "active": "92dd9afc09dfb2bb",
   "lastOpenFiles": [
-    "使用说明 1.md",
-    "Agent.md",
-    "未命名.md",
-    "未命名看板.md",
-    "使用说明.md",
+    "项目/看板.md",
     "使用说明/git解决status时文件名显示为八进制字符串.md",
+    "git解决status时文件名显示为八进制字符串.md",
+    "使用说明.md",
+    "使用说明/插件.md",
+    "Agent.md",
+    "使用说明 1.md",
     "项目",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
@@ -223,7 +167,6 @@
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
     "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "Projects - Demo Project",
-    "使用说明/插件.md",
     "使用说明/手头的事情.md",
     "工作",
     "Rational Agent.md",
