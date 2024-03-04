@@ -19,8 +19,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9f27ce4b0be5db00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/进程管理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "25bad6f6d072f9b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/什么是程序.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Build.md",
+                "file": "操作系统/进程管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Build.md",
+                "file": "操作系统/进程管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Build.md"
+                "file": "操作系统/进程管理.md"
               }
             }
           },
@@ -159,15 +186,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "92dd9afc09dfb2bb",
+  "active": "9f27ce4b0be5db00",
   "lastOpenFiles": [
+    "操作系统/什么是程序.md",
+    "操作系统/什么是进程.md",
+    "操作系统/进程管理.md",
     "Daily Build.md",
+    "计算机网络/RCode.md",
+    "计算机网络/HTTP协议概述.md",
+    "计算机网络/DNS Message.md",
+    "LLM/Rational Agent.md",
+    "计算机网络",
+    "LLM/LLM Powered Autonomous Agents.md",
+    "LLM/In-Context Learning.md",
+    "LLM/Agent.md",
+    "LLM",
+    "操作系统",
+    "操作",
     "项目/看板.md",
     "使用说明/git解决status时文件名显示为八进制字符串.md",
     "git解决status时文件名显示为八进制字符串.md",
     "使用说明.md",
     "使用说明/插件.md",
-    "Agent.md",
     "使用说明 1.md",
     "项目",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
@@ -178,24 +218,11 @@
     "Projects - Demo Project",
     "使用说明/手头的事情.md",
     "工作",
-    "Rational Agent.md",
-    "In-Context Learning.md",
-    "LLM Powered Autonomous Agents.md",
     "使用说明/选项.md",
-    "DNS Message.md",
-    "HTTP协议概述.md",
-    "HTTP协议中服务端不能主动向客户端发送消息.md",
-    "Hypertext.md",
-    "RCode.md",
-    "Server Sent Events.md",
-    "使用说明/自定义CSS.md",
-    "使用说明/核心插件.md",
+    "计算机网络/HTTP协议中服务端不能主动向客户端发送消息.md",
+    "计算机网络/Hypertext.md",
     "使用说明/变更历史",
     "Daily",
-    "03-永久笔记",
-    "02-文献笔记/001-名词解释",
-    "02-文献笔记",
-    "01-闪念笔记",
-    "使用说明"
+    "03-永久笔记"
   ]
 }
