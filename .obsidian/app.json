@@ -3,5 +3,6 @@
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "promptDelete": false
 }
