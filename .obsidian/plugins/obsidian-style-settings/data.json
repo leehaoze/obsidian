@@ -7,5 +7,10 @@
   "Components@@CTA-BTN-enable": true,
   "Components@@folder-font-bold": true,
   "Components@@colorful-folder": false,
-  "Components@@outline-enhanced": true
+  "Components@@outline-enhanced": true,
+  "Components@@extra-anim-remove": false,
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-light@@accent-light": "#555D95",
+  "Editor@@border-focus-mode": false,
+  "Editor@@line-hover-indicator": true
 }
