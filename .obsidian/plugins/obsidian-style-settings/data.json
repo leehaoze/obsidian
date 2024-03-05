@@ -12,5 +12,5 @@
   "Appearance-light@@card-layout-open-light": true,
   "Appearance-light@@accent-light": "#555D95",
   "Editor@@border-focus-mode": false,
-  "Editor@@line-hover-indicator": true
+  "Editor@@line-hover-indicator": false
 }

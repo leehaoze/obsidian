@@ -14,8 +14,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "e61540ad14922168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDP/GDP 启动流程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GDP/GDP 启动流程.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GDP/GDP 启动流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GDP/GDP 启动流程.md"
+              }
             }
           },
           {
@@ -150,8 +168,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "443f4e5707653b85",
+  "active": "e61540ad14922168",
   "lastOpenFiles": [
+    "Golang表示各种进制的数值.md",
+    "GDP/GDP 启动流程.md",
+    "GDP/GDP 3.0 学习.md",
+    "GDP/GDP目录结构.md",
+    "GDP/GDP-命令行工具.md",
+    "GDP",
+    "GDP",
     "Daily Build.md",
     "使用说明.md",
     "使用说明/选项.md",
@@ -170,23 +195,16 @@
     "计算机网络/DNS Message.md",
     "未命名看板.md",
     "项目规划/测试项目.md",
-    "未命名.md",
     "项目规划",
     "LLM/Rational Agent.md",
     "计算机网络",
     "LLM/LLM Powered Autonomous Agents.md",
     "LLM/In-Context Learning.md",
-    "LLM/Agent.md",
     "LLM",
     "操作系统",
     "操作",
-    "项目/看板.md",
-    "使用说明/git解决status时文件名显示为八进制字符串.md",
-    "git解决status时文件名显示为八进制字符串.md",
     "项目",
     "Projects - Demo Project",
-    "工作",
-    "使用说明/变更历史",
-    "Daily"
+    "工作"
   ]
 }
