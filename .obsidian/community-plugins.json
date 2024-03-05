@@ -1,4 +1,6 @@
 [
   "obsidian-linter",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-style-settings",
+  "obsidian-electron-window-tweaker"
 ]
