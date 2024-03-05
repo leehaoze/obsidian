@@ -1,6 +1,6 @@
 ---
 date created: 星期二, 三月 5日 2024, 4:45:29 下午
-date modified: 星期二, 三月 5日 2024, 5:34:26 下午
+date modified: 星期二, 三月 5日 2024, 7:41:43 晚上
 tags: 
 ---
 
@@ -104,4 +104,21 @@ shutdown()
 
 ## 各类初始化
 
-第三步便是`bootstrap.MustInit(ctx)`了，通过函数名字不难看出，内部进行的各类初始化必须成功。
+第三步便是`bootstrap.MustInit(ctx)`了，通过函数名字不难看出，内部进行的各类初始化必须成功，当内部进行的各种初始化出现问题时，会直接`panic`。
+
+这里边初始化的工作主要包含：
+- 重定向`Stderr`和`Stdout`
+- `Metrics`相关初始化
+- `RPC Dump`相关初始化
+- `pandora`平台相关
+- `logger`
+- `ral`服务
+- `bns`解析服务
+- `mysql`
+- `redis`
+
+## 启动Server
+
+在此步骤实例化各类`Server`(HTTP、NSHead等)，并通过`serverList.StartGraceful`启动。
+当任意`Server`异常退出时，会触发整体`serverList`中所有服务的退出。
+

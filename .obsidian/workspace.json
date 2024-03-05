@@ -4,32 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "819931a8f59e3a50",
+        "id": "f69b1a58287a8a4a",
         "type": "tabs",
         "children": [
           {
-            "id": "443f4e5707653b85",
+            "id": "402c937bc988b1af",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "e61540ad14922168",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDP/GDP 启动流程.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDP/GDP 启动流程.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDP/GDP 启动流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GDP/GDP 启动流程.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,8 +133,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,19 +149,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e61540ad14922168",
+  "active": "402c937bc988b1af",
   "lastOpenFiles": [
-    "Golang表示各种进制的数值.md",
-    "GDP/GDP 启动流程.md",
+    "使用说明/核心插件.md",
+    "LLM/Agent.md",
+    "LLM/LLM Powered Autonomous Agents.md",
     "GDP/GDP 3.0 学习.md",
     "GDP/GDP目录结构.md",
     "GDP/GDP-命令行工具.md",
+    "GDP/GDP 退出流程.md",
+    "GDP/GDP 启动流程.md",
+    "Golang表示各种进制的数值.md",
     "GDP",
     "GDP",
     "Daily Build.md",
     "使用说明.md",
     "使用说明/选项.md",
-    "使用说明/核心插件.md",
     "使用说明/插件.md",
     "使用说明/自定义CSS.md",
     "操作系统/什么是进程.md",
@@ -196,10 +180,7 @@
     "未命名看板.md",
     "项目规划/测试项目.md",
     "项目规划",
-    "LLM/Rational Agent.md",
     "计算机网络",
-    "LLM/LLM Powered Autonomous Agents.md",
-    "LLM/In-Context Learning.md",
     "LLM",
     "操作系统",
     "操作",
