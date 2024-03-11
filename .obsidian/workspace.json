@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go 1.21 中的泛型推断.md",
+                "file": "LLM/Agent.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go 1.21 中的泛型推断.md",
+                "file": "LLM/Agent.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go 1.21 中的泛型推断.md",
+                "file": "LLM/Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go 1.21 中的泛型推断.md"
+                "file": "LLM/Agent.md"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "623ccb9fa43b9e98",
   "lastOpenFiles": [
-    "GDP/GDP目录结构.md",
     "Go 1.21 中的泛型推断.md",
+    "GDP/GDP目录结构.md",
     "未命名",
     "使用说明/核心插件.md",
     "LLM/Agent.md",
