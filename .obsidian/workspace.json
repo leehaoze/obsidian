@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "719bc2c4960234a7",
+        "id": "7f6b033a515bf3c0",
         "type": "tabs",
         "children": [
           {
-            "id": "0e4a2274fac70c77",
+            "id": "4908efc3711d4d85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/原子操作.md",
+                "file": "1-文献笔记/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/原子操作.md",
+                "file": "1-文献笔记/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/原子操作.md",
+                "file": "1-文献笔记/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/原子操作.md"
+                "file": "1-文献笔记/阻塞进程置换到磁盘时可以变为就绪状态吗.md"
               }
             }
           },
@@ -158,44 +158,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0e4a2274fac70c77",
+  "active": "4908efc3711d4d85",
   "lastOpenFiles": [
-    "操作系统/为什么需要线程.md",
-    "操作系统/原子操作.md",
-    "操作系统/什么是线程.md",
-    "操作系统/什么是进程.md",
-    "操作系统/什么是程序.md",
-    "操作系统/进程如何从阻塞态变为就绪态.md",
-    "操作系统/进程的状态.md",
-    "操作系统/001-进程管理.md",
+    "1-文献笔记/未命名.md",
+    "1-文献笔记/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
+    "模板/笔记模板.md",
+    "模板",
+    "2-永久笔记/操作系统/进程的状态.md",
+    "2-永久笔记/操作系统/进程如何从阻塞态变为就绪态.md",
+    "模板",
+    "2-永久笔记/操作系统/进程的挂起.md",
+    "2-永久笔记/操作系统/001-进程管理.md",
+    "2-永久笔记/GDP/GDP目录结构.md",
+    "2-永久笔记/GDP/GDP-命令行工具.md",
+    "2-永久笔记/GDP/GDP 退出流程.md",
+    "2-永久笔记/GDP/GDP 启动流程.md",
+    "2-永久笔记/GDP/GDP 3.0 学习.md",
+    "2-永久笔记/Golang表示各种进制的数值.md",
+    "2-永久笔记/Daily Build.md",
+    "2-永久笔记/操作系统/什么是进程.md",
+    "2-永久笔记",
+    "2-永久笔记/操作系统/什么是程序.md",
+    "1-文献笔记",
+    "2-永久笔记/操作系统/什么是线程.md",
+    "2-永久笔记/操作系统/为什么需要线程.md",
+    "2-永久笔记/操作系统/原子操作.md",
     "操作系统/SCR-20240311-tacf.jpeg",
-    "Golang表示各种进制的数值.md",
-    "Daily Build.md",
     "Go 1.21 中的泛型推断.md",
-    "GDP/GDP目录结构.md",
-    "LLM/Agent.md",
-    "未命名",
+    "2-永久笔记/LLM/Agent.md",
     "使用说明/核心插件.md",
-    "LLM/LLM Powered Autonomous Agents.md",
-    "GDP/GDP 3.0 学习.md",
-    "GDP/GDP-命令行工具.md",
-    "GDP/GDP 退出流程.md",
-    "GDP/GDP 启动流程.md",
-    "GDP",
-    "GDP",
+    "2-永久笔记/LLM/LLM Powered Autonomous Agents.md",
+    "2-永久笔记/GDP",
+    "2-永久笔记/GDP",
     "使用说明.md",
     "使用说明/选项.md",
     "使用说明/插件.md",
-    "使用说明/自定义CSS.md",
-    "计算机网络/Server Sent Events.md",
-    "计算机网络/RCode.md",
-    "计算机网络/HTTP协议概述.md",
     "项目规划",
-    "计算机网络",
-    "LLM",
-    "操作系统",
-    "操作",
-    "项目",
-    "Projects - Demo Project"
+    "2-永久笔记/计算机网络",
+    "2-永久笔记/LLM",
+    "2-永久笔记/操作系统"
   ]
 }
