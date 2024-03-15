@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7f6b033a515bf3c0",
+        "id": "7ace1ed05b7e247d",
         "type": "tabs",
         "children": [
           {
-            "id": "4908efc3711d4d85",
+            "id": "b54a61a726bb8818",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-永久笔记/GDP/GDP-目录结构.md",
+                "file": "1-文献笔记/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-永久笔记/GDP/GDP-目录结构.md",
+                "file": "1-文献笔记/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-永久笔记/GDP/GDP-目录结构.md",
+                "file": "1-文献笔记/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-永久笔记/GDP/GDP-目录结构.md"
+                "file": "1-文献笔记/阻塞进程置换到磁盘时可以变为就绪状态吗.md"
               }
             }
           },
@@ -158,10 +158,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4908efc3711d4d85",
+  "active": "b54a61a726bb8818",
   "lastOpenFiles": [
+    "1-文献笔记/陆奇最新演讲实录：我的大模型世界观.md",
+    "2-永久笔记/GDP/GDP-目录结构.md",
     "1-文献笔记/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
-    "1-文献笔记/未命名.md",
     "模板/笔记模板.md",
     "模板",
     "2-永久笔记/操作系统/进程的状态.md",
@@ -169,7 +170,6 @@
     "模板",
     "2-永久笔记/操作系统/进程的挂起.md",
     "2-永久笔记/操作系统/001-进程管理.md",
-    "2-永久笔记/GDP/GDP-目录结构.md",
     "2-永久笔记/GDP/GDP-命令行工具.md",
     "2-永久笔记/GDP/GDP 退出流程.md",
     "2-永久笔记/GDP/GDP 启动流程.md",
