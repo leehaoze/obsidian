@@ -19,8 +19,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e7f521d6ee69b108",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-文献笔记/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-文献笔记/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1-文献笔记/阻塞进程置换到磁盘时可以变为就绪状态吗.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,11 +163,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b54a61a726bb8818",
+  "active": "e7f521d6ee69b108",
   "lastOpenFiles": [
+    "1-文献笔记/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
     "1-文献笔记/陆奇最新演讲实录：我的大模型世界观.md",
     "2-永久笔记/GDP/GDP-目录结构.md",
-    "1-文献笔记/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
     "模板/笔记模板.md",
     "模板",
     "2-永久笔记/操作系统/进程的状态.md",
