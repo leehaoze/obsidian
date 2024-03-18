@@ -1,7 +1,8 @@
 ---
 alias: [理性代理人]
 date created: 星期日, 二月 18日 2024, 4:37:40 下午
-date modified: 星期日, 二月 18日 2024, 4:46:44 下午
+date modified: 星期一, 三月 18日 2024, 7:48:25 晚上
+state: F
 tags: 
 ---
 
