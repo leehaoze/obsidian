@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "7ace1ed05b7e247d",
+        "id": "93d67a0e9c7694fc",
         "type": "tabs",
         "children": [
           {
-            "id": "6ac6f3e7908ab9f9",
+            "id": "b7894fa5037d272f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-永久笔记/什么是JSON Schema.md",
+                "file": "2-永久笔记/操作系统/进程控制块.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "922d55fed603654b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-永久笔记/操作系统/进程的挂起.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-永久笔记/什么是JSON Schema.md",
+                "file": "2-永久笔记/操作系统/进程控制块.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-永久笔记/什么是JSON Schema.md",
+                "file": "2-永久笔记/操作系统/进程控制块.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-永久笔记/什么是JSON Schema.md"
+                "file": "2-永久笔记/操作系统/进程控制块.md"
               }
             }
           },
@@ -148,12 +161,11 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-永久笔记/什么是JSON Schema.md"
+                "file": "2-永久笔记/操作系统/进程控制块.md"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,35 +181,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6ac6f3e7908ab9f9",
+  "active": "b7894fa5037d272f",
   "lastOpenFiles": [
     "2-永久笔记/操作系统/001-进程管理.md",
-    "2-永久笔记/什么是JSON Schema.md",
-    "2-永久笔记/Daily Build.md",
-    "0-InBox/陆奇最新演讲实录：我的大模型世界观.md",
-    "2-永久笔记/LLM/LLM Powered Autonomous Agents.md",
-    "0-InBox/AGI.md",
-    "0-InBox/git解决status时文件名显示为八进制字符串.md",
-    "视图.md",
-    "0-InBox/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
-    "0-InBox",
-    "2-永久笔记/操作系统/进程的挂起.md",
-    "2-永久笔记/操作系统/进程的状态.md",
-    "2-永久笔记/操作系统/原子操作.md",
-    "2-永久笔记/操作系统/为什么需要线程.md",
+    "2-永久笔记/操作系统/进程控制块.md",
     "2-永久笔记/操作系统/什么是线程.md",
+    "2-永久笔记/操作系统/原子操作.md",
+    "2-永久笔记/操作系统/进程的状态.md",
+    "2-永久笔记/操作系统/进程如何从阻塞态变为就绪态.md",
+    "2-永久笔记/操作系统/进程的挂起.md",
     "2-永久笔记/操作系统/什么是进程.md",
     "2-永久笔记/操作系统/什么是程序.md",
-    "2-永久笔记/操作系统/进程如何从阻塞态变为就绪态.md",
+    "0-InBox/git解决status时文件名显示为八进制字符串.md",
+    "0-InBox/AGI.md",
+    "0-InBox/陆奇最新演讲实录：我的大模型世界观.md",
+    "0-InBox/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
+    "进程看板.md",
+    "2-永久笔记/什么是JSON Schema.md",
+    "使用说明.md",
+    "2-永久笔记/Daily Build.md",
+    "2-永久笔记/LLM/LLM Powered Autonomous Agents.md",
+    "视图.md",
+    "0-InBox",
+    "2-永久笔记/操作系统/为什么需要线程.md",
     "2-永久笔记/计算机网络/Server Sent Events.md",
     "2-永久笔记/计算机网络/RCode.md",
     "2-永久笔记/计算机网络/Hypertext.md",
     "2-永久笔记/计算机网络/HTTP协议中服务端不能主动向客户端发送消息.md",
     "2-永久笔记/计算机网络/HTTP协议概述.md",
     "2-永久笔记/计算机网络/DNS Message.md",
-    "2-永久笔记/GDP/GDP-目录结构.md",
-    "2-永久笔记/GDP/GDP-命令行工具.md",
-    "2-永久笔记/GDP/GDP 退出流程.md",
     "使用说明/配置",
     "模板",
     "模板",
