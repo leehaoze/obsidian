@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-永久笔记/LLM/LLM Powered Autonomous Agents.md",
+                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-永久笔记/LLM/LLM Powered Autonomous Agents.md",
+                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-永久笔记/LLM/LLM Powered Autonomous Agents.md",
+                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-永久笔记/LLM/LLM Powered Autonomous Agents.md"
+                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-永久笔记/LLM/LLM Powered Autonomous Agents.md"
+                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md"
               }
             }
           }
@@ -183,8 +183,10 @@
   },
   "active": "b7894fa5037d272f",
   "lastOpenFiles": [
-    "2-永久笔记/LLM/Rational Agent.md",
     "2-永久笔记/LLM/LLM Powered Autonomous Agents.md",
+    "3-工作笔记/大模型生成Plan的Prompt测试.md",
+    "3-工作笔记",
+    "2-永久笔记/LLM/Rational Agent.md",
     "2-永久笔记/LLM/In-Context Learning.md",
     "2-永久笔记/LLM/Agent.md",
     "2-永久笔记/操作系统/进程控制块.md",
@@ -209,7 +211,6 @@
     "2-永久笔记/操作系统/为什么需要线程.md",
     "2-永久笔记/计算机网络/Server Sent Events.md",
     "2-永久笔记/计算机网络/RCode.md",
-    "2-永久笔记/计算机网络/Hypertext.md",
     "使用说明/配置",
     "模板",
     "模板",
@@ -218,7 +219,6 @@
     "操作系统/SCR-20240311-tacf.jpeg",
     "2-永久笔记/GDP",
     "2-永久笔记/GDP",
-    "项目规划",
-    "2-永久笔记/计算机网络"
+    "项目规划"
   ]
 }
