@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-永久笔记/操作系统/进程控制块.md",
+                "file": "2-永久笔记/LLM/LLM Powered Autonomous Agents.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-永久笔记/操作系统/进程控制块.md",
+                "file": "2-永久笔记/LLM/LLM Powered Autonomous Agents.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-永久笔记/操作系统/进程控制块.md",
+                "file": "2-永久笔记/LLM/LLM Powered Autonomous Agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-永久笔记/操作系统/进程控制块.md"
+                "file": "2-永久笔记/LLM/LLM Powered Autonomous Agents.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-永久笔记/操作系统/进程控制块.md"
+                "file": "2-永久笔记/LLM/LLM Powered Autonomous Agents.md"
               }
             }
           }
@@ -183,8 +183,12 @@
   },
   "active": "b7894fa5037d272f",
   "lastOpenFiles": [
-    "2-永久笔记/操作系统/001-进程管理.md",
+    "2-永久笔记/LLM/Rational Agent.md",
+    "2-永久笔记/LLM/LLM Powered Autonomous Agents.md",
+    "2-永久笔记/LLM/In-Context Learning.md",
+    "2-永久笔记/LLM/Agent.md",
     "2-永久笔记/操作系统/进程控制块.md",
+    "2-永久笔记/操作系统/001-进程管理.md",
     "2-永久笔记/操作系统/什么是线程.md",
     "2-永久笔记/操作系统/原子操作.md",
     "2-永久笔记/操作系统/进程的状态.md",
@@ -200,16 +204,12 @@
     "2-永久笔记/什么是JSON Schema.md",
     "使用说明.md",
     "2-永久笔记/Daily Build.md",
-    "2-永久笔记/LLM/LLM Powered Autonomous Agents.md",
     "视图.md",
     "0-InBox",
     "2-永久笔记/操作系统/为什么需要线程.md",
     "2-永久笔记/计算机网络/Server Sent Events.md",
     "2-永久笔记/计算机网络/RCode.md",
     "2-永久笔记/计算机网络/Hypertext.md",
-    "2-永久笔记/计算机网络/HTTP协议中服务端不能主动向客户端发送消息.md",
-    "2-永久笔记/计算机网络/HTTP协议概述.md",
-    "2-永久笔记/计算机网络/DNS Message.md",
     "使用说明/配置",
     "模板",
     "模板",
