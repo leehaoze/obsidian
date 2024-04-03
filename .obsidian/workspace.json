@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4ede3cc300b817f8",
+        "id": "4738806f15b5ef36",
         "type": "tabs",
         "children": [
           {
-            "id": "9afbc5f897ba747a",
+            "id": "510336cc8ecf9d7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-永久笔记/操作系统/001-进程管理.md",
+                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-永久笔记/操作系统/001-进程管理.md",
+                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-永久笔记/操作系统/001-进程管理.md",
+                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-永久笔记/操作系统/001-进程管理.md"
+                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-永久笔记/操作系统/001-进程管理.md"
+                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md"
               }
             }
           }
@@ -169,11 +169,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9afbc5f897ba747a",
+  "active": "510336cc8ecf9d7f",
   "lastOpenFiles": [
+    "2-永久笔记/操作系统/001-进程管理.md",
     "2-永久笔记/操作系统/进程控制块.md",
     "2-永久笔记/操作系统/进程的状态.md",
-    "2-永久笔记/操作系统/001-进程管理.md",
     "0-InBox/git提示 index uses extension, which we do not understand.md",
     "0-InBox/陆奇最新演讲实录：我的大模型世界观.md",
     "0-InBox/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
