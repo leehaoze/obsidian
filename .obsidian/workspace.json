@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "93d67a0e9c7694fc",
+        "id": "4ede3cc300b817f8",
         "type": "tabs",
         "children": [
           {
-            "id": "b7894fa5037d272f",
+            "id": "9afbc5f897ba747a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "922d55fed603654b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-永久笔记/操作系统/进程的挂起.md",
+                "file": "2-永久笔记/操作系统/001-进程管理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md",
+                "file": "2-永久笔记/操作系统/001-进程管理.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md",
+                "file": "2-永久笔记/操作系统/001-进程管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md"
+                "file": "2-永久笔记/操作系统/001-进程管理.md"
               }
             }
           },
@@ -161,11 +148,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md"
+                "file": "2-永久笔记/操作系统/001-进程管理.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,27 +169,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b7894fa5037d272f",
+  "active": "9afbc5f897ba747a",
   "lastOpenFiles": [
-    "2-永久笔记/LLM/LLM Powered Autonomous Agents.md",
+    "2-永久笔记/操作系统/进程控制块.md",
+    "2-永久笔记/操作系统/进程的状态.md",
+    "2-永久笔记/操作系统/001-进程管理.md",
+    "0-InBox/git提示 index uses extension, which we do not understand.md",
+    "0-InBox/陆奇最新演讲实录：我的大模型世界观.md",
+    "0-InBox/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
+    "0-InBox/git解决status时文件名显示为八进制字符串.md",
+    "0-InBox/AGI.md",
     "3-工作笔记/大模型生成Plan的Prompt测试.md",
+    "2-永久笔记/操作系统/进程的挂起.md",
+    "2-永久笔记/LLM/LLM Powered Autonomous Agents.md",
     "3-工作笔记",
     "2-永久笔记/LLM/Rational Agent.md",
     "2-永久笔记/LLM/In-Context Learning.md",
     "2-永久笔记/LLM/Agent.md",
-    "2-永久笔记/操作系统/进程控制块.md",
-    "2-永久笔记/操作系统/001-进程管理.md",
     "2-永久笔记/操作系统/什么是线程.md",
     "2-永久笔记/操作系统/原子操作.md",
-    "2-永久笔记/操作系统/进程的状态.md",
     "2-永久笔记/操作系统/进程如何从阻塞态变为就绪态.md",
-    "2-永久笔记/操作系统/进程的挂起.md",
     "2-永久笔记/操作系统/什么是进程.md",
     "2-永久笔记/操作系统/什么是程序.md",
-    "0-InBox/git解决status时文件名显示为八进制字符串.md",
-    "0-InBox/AGI.md",
-    "0-InBox/陆奇最新演讲实录：我的大模型世界观.md",
-    "0-InBox/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
     "进程看板.md",
     "2-永久笔记/什么是JSON Schema.md",
     "使用说明.md",
@@ -210,7 +199,6 @@
     "0-InBox",
     "2-永久笔记/操作系统/为什么需要线程.md",
     "2-永久笔记/计算机网络/Server Sent Events.md",
-    "2-永久笔记/计算机网络/RCode.md",
     "使用说明/配置",
     "模板",
     "模板",
