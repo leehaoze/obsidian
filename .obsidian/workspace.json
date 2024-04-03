@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4738806f15b5ef36",
+        "id": "f219d3aaba02af96",
         "type": "tabs",
         "children": [
           {
-            "id": "510336cc8ecf9d7f",
+            "id": "21e964e465f411c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -169,36 +158,37 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "510336cc8ecf9d7f",
+  "active": "21e964e465f411c4",
   "lastOpenFiles": [
-    "2-永久笔记/LLM/LLM Powered Autonomous Agents.md",
-    "2-永久笔记/LLM/In-Context Learning.md",
-    "2-永久笔记/LLM/Agent.md",
+    "2-永久笔记/3-人工智能/行为主义.md",
+    "2-永久笔记/3-人工智能/人工智能三大主要学派.md",
+    "2-永久笔记/3-人工智能/连接主义.md",
+    "2-永久笔记/3-人工智能/符号主义.md",
+    "2-永久笔记/3-人工智能",
+    "3-工作笔记/大模型生成Plan的Prompt测试.md",
+    "2-永久笔记/4-LLM/LLM Powered Autonomous Agents.md",
+    "2-永久笔记/4-LLM/In-Context Learning.md",
+    "2-永久笔记/4-LLM/Agent.md",
     "2-永久笔记/Daily Build.md",
     "2-永久笔记/什么是JSON Schema.md",
-    "2-永久笔记/LLM/Rational Agent.md",
-    "3-工作笔记/大模型生成Plan的Prompt测试.md",
-    "2-永久笔记/操作系统/001-进程管理.md",
-    "2-永久笔记/操作系统/进程控制块.md",
-    "2-永久笔记/操作系统/进程的状态.md",
+    "2-永久笔记/4-LLM/Rational Agent.md",
+    "2-永久笔记/1-操作系统/001-进程管理.md",
+    "2-永久笔记/1-操作系统/进程控制块.md",
+    "2-永久笔记/1-操作系统/进程的状态.md",
     "0-InBox/git提示 index uses extension, which we do not understand.md",
     "0-InBox/陆奇最新演讲实录：我的大模型世界观.md",
     "0-InBox/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
     "0-InBox/git解决status时文件名显示为八进制字符串.md",
     "0-InBox/AGI.md",
-    "2-永久笔记/操作系统/进程的挂起.md",
+    "2-永久笔记/1-操作系统/进程的挂起.md",
     "3-工作笔记",
-    "2-永久笔记/操作系统/什么是线程.md",
+    "2-永久笔记/1-操作系统/什么是线程.md",
     "2-永久笔记/操作系统/原子操作.md",
     "2-永久笔记/操作系统/进程如何从阻塞态变为就绪态.md",
-    "2-永久笔记/操作系统/什么是进程.md",
-    "2-永久笔记/操作系统/什么是程序.md",
+    "2-永久笔记/1-操作系统/什么是进程.md",
+    "2-永久笔记/1-操作系统/什么是程序.md",
     "进程看板.md",
-    "使用说明.md",
-    "视图.md",
     "0-InBox",
-    "2-永久笔记/操作系统/为什么需要线程.md",
-    "2-永久笔记/计算机网络/Server Sent Events.md",
     "使用说明/配置",
     "模板",
     "模板",
@@ -206,7 +196,6 @@
     "1-文献笔记",
     "操作系统/SCR-20240311-tacf.jpeg",
     "2-永久笔记/GDP",
-    "2-永久笔记/GDP",
-    "项目规划"
+    "2-永久笔记/GDP"
   ]
 }
