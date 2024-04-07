@@ -11,8 +11,13 @@
             "id": "21e964e465f411c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md"
+              }
             }
           },
           {
@@ -138,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md"
+              }
             }
           }
         ],
