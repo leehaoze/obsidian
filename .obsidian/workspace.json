@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f219d3aaba02af96",
+        "id": "e370b22c39f5539c",
         "type": "tabs",
         "children": [
           {
-            "id": "21e964e465f411c4",
+            "id": "fa9f68bc204996ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-永久笔记/999-未分类/群体智能.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bd253ab2adee3f44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/LLM Powered Autonomous Agents.md",
+                "file": "2-永久笔记/1-操作系统/1-进程管理/2b1-进程控制块的结构.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "leehaoze",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/LLM Powered Autonomous Agents.md",
+                "file": "2-永久笔记/1-操作系统/1-进程管理/2b1-进程控制块的结构.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,9 +103,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/LLM Powered Autonomous Agents.md",
+                "file": "2-永久笔记/1-操作系统/1-进程管理/2b1-进程控制块的结构.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/LLM Powered Autonomous Agents.md"
+                "file": "2-永久笔记/1-操作系统/1-进程管理/2b1-进程控制块的结构.md"
               }
             }
           },
@@ -162,12 +148,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/LLM Powered Autonomous Agents.md"
+                "file": "2-永久笔记/1-操作系统/1-进程管理/2b1-进程控制块的结构.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,43 +169,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b4b0c7305fc51237",
+  "active": "fa9f68bc204996ca",
   "lastOpenFiles": [
+    "2-永久笔记/1-操作系统/1-进程管理/2b-进程控制块.md",
+    "2-永久笔记/1-操作系统/1-进程管理/2a1-进程的挂起.md",
+    "2-永久笔记/1-操作系统/1-进程管理/2a-进程的状态.md",
+    "2-永久笔记/1-操作系统/1-进程管理/2b1-进程控制块的结构.md",
+    "2-永久笔记/1-操作系统/1-进程管理/0-进程管理.md",
+    "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/AI Agent 研发范式.md",
+    "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/In-Context Learning.md",
+    "2-永久笔记/2-计算机网络/DNS Message.md",
+    "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/AutoGen多智能体协作范式.md",
     "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/Rational Agent.md",
     "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/LLM Powered Autonomous Agents.md",
-    "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/In-Context Learning.md",
-    "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/AI Agent 研发范式.md",
+    "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/Agent.md",
+    "2-永久笔记/3-人工智能/行为主义.md",
+    "2-永久笔记/3-人工智能/连接主义.md",
+    "2-永久笔记/3-人工智能/符号主义.md",
+    "2-永久笔记/999-未分类/Golang表示各种进制的数值.md",
+    "2-永久笔记/999-未分类/Daily Build.md",
+    "2-永久笔记/999-未分类/什么是JSON Schema.md",
+    "2-永久笔记/999-未分类/群体智能.md",
+    "2-永久笔记/1-操作系统/1-进程管理/3-什么是线程.md",
+    "2-永久笔记/1-操作系统/1-进程管理/1-什么是程序.md",
+    "2-永久笔记/1-操作系统/1-进程管理/2-什么是进程.md",
+    "2-永久笔记/1-操作系统/1-进程管理",
     "进程看板.md",
     "使用说明.md",
     "测试.md",
-    "2-永久笔记/999-未分类/群体智能.md",
-    "2-永久笔记/999-未分类/Golang表示各种进制的数值.md",
-    "2-永久笔记/999-未分类/什么是JSON Schema.md",
     "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/MRKL.md",
-    "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/AutoGen多智能体协作范式.md",
-    "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/Agent.md",
     "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容",
     "2-永久笔记/999-未分类",
-    "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/0-LLM Agent 工程框架范式.md",
-    "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/BabyAGI范式.md",
-    "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/AutoGPT范式.md",
     "2-永久笔记/4-LLM/1-AI Agent/2-工程框架",
     "2-永久笔记/4-LLM/1-AI Agent",
-    "2-永久笔记/4-LLM/LLM Agent.md",
-    "3-工作笔记/大模型生成Plan的Prompt测试.md",
-    "2-永久笔记/3-人工智能/行为主义.md",
-    "2-永久笔记/3-人工智能/人工智能三大主要学派.md",
-    "2-永久笔记/3-人工智能/连接主义.md",
-    "2-永久笔记/3-人工智能/符号主义.md",
     "2-永久笔记/3-人工智能",
-    "2-永久笔记/999-未分类/Daily Build.md",
-    "2-永久笔记/1-操作系统/001-进程管理.md",
-    "2-永久笔记/1-操作系统/进程控制块.md",
-    "2-永久笔记/1-操作系统/进程的状态.md",
     "3-工作笔记",
     "0-InBox",
     "使用说明/配置",
-    "模板",
     "模板",
     "操作系统/SCR-20240311-tacf.jpeg"
   ]
