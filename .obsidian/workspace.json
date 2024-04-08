@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-永久笔记/4-LLM/1-Agent/2-工程框架/MRKL.md",
+                "file": "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/LLM Powered Autonomous Agents.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-永久笔记/4-LLM/1-Agent/2-工程框架/MRKL.md",
+                "file": "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/LLM Powered Autonomous Agents.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-永久笔记/4-LLM/1-Agent/2-工程框架/MRKL.md",
+                "file": "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/LLM Powered Autonomous Agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-永久笔记/4-LLM/1-Agent/2-工程框架/MRKL.md"
+                "file": "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/LLM Powered Autonomous Agents.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-永久笔记/4-LLM/1-Agent/2-工程框架/MRKL.md"
+                "file": "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/LLM Powered Autonomous Agents.md"
               }
             }
           }
@@ -183,24 +183,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bd253ab2adee3f44",
+  "active": "b4b0c7305fc51237",
   "lastOpenFiles": [
-    "2-永久笔记/4-LLM/1-Agent/2-工程框架/AutoGen多智能体协作范式.md",
-    "2-永久笔记/4-LLM/1-Agent/1-概念性内容/Agent.md",
-    "2-永久笔记/4-LLM/1-Agent/1-概念性内容/LLM Powered Autonomous Agents.md",
-    "2-永久笔记/4-LLM/1-Agent/1-概念性内容",
+    "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/Rational Agent.md",
+    "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/LLM Powered Autonomous Agents.md",
+    "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/In-Context Learning.md",
+    "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/AI Agent 研发范式.md",
+    "进程看板.md",
+    "使用说明.md",
+    "测试.md",
     "2-永久笔记/999-未分类/群体智能.md",
+    "2-永久笔记/999-未分类/Golang表示各种进制的数值.md",
     "2-永久笔记/999-未分类/什么是JSON Schema.md",
+    "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/MRKL.md",
+    "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/AutoGen多智能体协作范式.md",
+    "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/Agent.md",
+    "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容",
     "2-永久笔记/999-未分类",
-    "2-永久笔记/4-LLM/1-Agent/2-工程框架/0-LLM Agent 工程框架范式.md",
-    "2-永久笔记/4-LLM/1-Agent/2-工程框架/BabyAGI范式.md",
-    "2-永久笔记/4-LLM/1-Agent/2-工程框架/AutoGPT范式.md",
-    "2-永久笔记/4-LLM/1-Agent/2-工程框架/MRKL.md",
-    "2-永久笔记/4-LLM/1-Agent/2-工程框架",
-    "2-永久笔记/4-LLM/1-Agent",
+    "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/0-LLM Agent 工程框架范式.md",
+    "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/BabyAGI范式.md",
+    "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/AutoGPT范式.md",
+    "2-永久笔记/4-LLM/1-AI Agent/2-工程框架",
+    "2-永久笔记/4-LLM/1-AI Agent",
     "2-永久笔记/4-LLM/LLM Agent.md",
-    "2-永久笔记/4-LLM/1-Agent/1-概念性内容/In-Context Learning.md",
-    "2-永久笔记/4-LLM/1-Agent/1-概念性内容/Rational Agent.md",
     "3-工作笔记/大模型生成Plan的Prompt测试.md",
     "2-永久笔记/3-人工智能/行为主义.md",
     "2-永久笔记/3-人工智能/人工智能三大主要学派.md",
@@ -211,10 +216,6 @@
     "2-永久笔记/1-操作系统/001-进程管理.md",
     "2-永久笔记/1-操作系统/进程控制块.md",
     "2-永久笔记/1-操作系统/进程的状态.md",
-    "0-InBox/git提示 index uses extension, which we do not understand.md",
-    "0-InBox/陆奇最新演讲实录：我的大模型世界观.md",
-    "0-InBox/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
-    "0-InBox/git解决status时文件名显示为八进制字符串.md",
     "3-工作笔记",
     "0-InBox",
     "使用说明/配置",
