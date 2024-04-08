@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md",
+                "file": "2-永久笔记/999-未分类/群体智能.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bd253ab2adee3f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-永久笔记/4-LLM/1-Agent/2-工程框架/MRKL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md",
+                "file": "2-永久笔记/4-LLM/1-Agent/2-工程框架/MRKL.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md",
+                "file": "2-永久笔记/4-LLM/1-Agent/2-工程框架/MRKL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md"
+                "file": "2-永久笔记/4-LLM/1-Agent/2-工程框架/MRKL.md"
               }
             }
           },
@@ -148,12 +162,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3-工作笔记/大模型生成Plan的Prompt测试.md"
+                "file": "2-永久笔记/4-LLM/1-Agent/2-工程框架/MRKL.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -169,20 +183,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "21e964e465f411c4",
+  "active": "bd253ab2adee3f44",
   "lastOpenFiles": [
+    "2-永久笔记/4-LLM/1-Agent/2-工程框架/AutoGen多智能体协作范式.md",
+    "2-永久笔记/4-LLM/1-Agent/1-概念性内容/Agent.md",
+    "2-永久笔记/4-LLM/1-Agent/1-概念性内容/LLM Powered Autonomous Agents.md",
+    "2-永久笔记/4-LLM/1-Agent/1-概念性内容",
+    "2-永久笔记/999-未分类/群体智能.md",
+    "2-永久笔记/999-未分类/什么是JSON Schema.md",
+    "2-永久笔记/999-未分类",
+    "2-永久笔记/4-LLM/1-Agent/2-工程框架/0-LLM Agent 工程框架范式.md",
+    "2-永久笔记/4-LLM/1-Agent/2-工程框架/BabyAGI范式.md",
+    "2-永久笔记/4-LLM/1-Agent/2-工程框架/AutoGPT范式.md",
+    "2-永久笔记/4-LLM/1-Agent/2-工程框架/MRKL.md",
+    "2-永久笔记/4-LLM/1-Agent/2-工程框架",
+    "2-永久笔记/4-LLM/1-Agent",
+    "2-永久笔记/4-LLM/LLM Agent.md",
+    "2-永久笔记/4-LLM/1-Agent/1-概念性内容/In-Context Learning.md",
+    "2-永久笔记/4-LLM/1-Agent/1-概念性内容/Rational Agent.md",
+    "3-工作笔记/大模型生成Plan的Prompt测试.md",
     "2-永久笔记/3-人工智能/行为主义.md",
     "2-永久笔记/3-人工智能/人工智能三大主要学派.md",
     "2-永久笔记/3-人工智能/连接主义.md",
     "2-永久笔记/3-人工智能/符号主义.md",
     "2-永久笔记/3-人工智能",
-    "3-工作笔记/大模型生成Plan的Prompt测试.md",
-    "2-永久笔记/4-LLM/LLM Powered Autonomous Agents.md",
-    "2-永久笔记/4-LLM/In-Context Learning.md",
-    "2-永久笔记/4-LLM/Agent.md",
-    "2-永久笔记/Daily Build.md",
-    "2-永久笔记/什么是JSON Schema.md",
-    "2-永久笔记/4-LLM/Rational Agent.md",
+    "2-永久笔记/999-未分类/Daily Build.md",
     "2-永久笔记/1-操作系统/001-进程管理.md",
     "2-永久笔记/1-操作系统/进程控制块.md",
     "2-永久笔记/1-操作系统/进程的状态.md",
@@ -190,23 +215,11 @@
     "0-InBox/陆奇最新演讲实录：我的大模型世界观.md",
     "0-InBox/阻塞进程置换到磁盘时可以变为就绪状态吗.md",
     "0-InBox/git解决status时文件名显示为八进制字符串.md",
-    "0-InBox/AGI.md",
-    "2-永久笔记/1-操作系统/进程的挂起.md",
     "3-工作笔记",
-    "2-永久笔记/1-操作系统/什么是线程.md",
-    "2-永久笔记/操作系统/原子操作.md",
-    "2-永久笔记/操作系统/进程如何从阻塞态变为就绪态.md",
-    "2-永久笔记/1-操作系统/什么是进程.md",
-    "2-永久笔记/1-操作系统/什么是程序.md",
-    "进程看板.md",
     "0-InBox",
     "使用说明/配置",
     "模板",
     "模板",
-    "2-永久笔记",
-    "1-文献笔记",
-    "操作系统/SCR-20240311-tacf.jpeg",
-    "2-永久笔记/GDP",
-    "2-永久笔记/GDP"
+    "操作系统/SCR-20240311-tacf.jpeg"
   ]
 }
