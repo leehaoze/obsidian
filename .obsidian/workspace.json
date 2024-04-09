@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e370b22c39f5539c",
+        "id": "534e1a6d2a5d9b9f",
         "type": "tabs",
         "children": [
           {
-            "id": "fa9f68bc204996ca",
+            "id": "2e2e73907e7e5eba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-永久笔记/1-操作系统/1-进程管理/2b1-进程控制块的结构.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0cf7d84962183ac1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-工作笔记/大模型与点餐场景的结合/理想场景下的点餐场景.md",
+                "file": "2-永久笔记/1-操作系统/3c2-线程的实现.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,14 +86,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-工作笔记/大模型与点餐场景的结合/理想场景下的点餐场景.md",
+                "file": "2-永久笔记/1-操作系统/3c2-线程的实现.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -117,9 +103,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-工作笔记/大模型与点餐场景的结合/理想场景下的点餐场景.md",
+                "file": "2-永久笔记/1-操作系统/3c2-线程的实现.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-工作笔记/大模型与点餐场景的结合/理想场景下的点餐场景.md"
+                "file": "2-永久笔记/1-操作系统/3c2-线程的实现.md"
               }
             }
           },
@@ -162,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3-工作笔记/大模型与点餐场景的结合/理想场景下的点餐场景.md"
+                "file": "2-永久笔记/1-操作系统/3c2-线程的实现.md"
               }
             }
           }
@@ -180,47 +166,48 @@
       "canvas:新建白板": true,
       "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": true,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "0cf7d84962183ac1",
+  "active": "2e2e73907e7e5eba",
   "lastOpenFiles": [
-    "2-永久笔记/1-操作系统/1-进程管理/2b1-进程控制块的结构.md",
-    "2-永久笔记/1-操作系统/1-进程管理/2b-进程控制块.md",
-    "2-永久笔记/1-操作系统/1-进程管理/3-什么是线程.md",
-    "2-永久笔记/1-操作系统/1-进程管理/0-进程管理.md",
-    "2-永久笔记/1-操作系统/1-进程管理/1-什么是程序.md",
-    "2-永久笔记/1-操作系统/1-进程管理/2b2-查看macOS中进程的状态实践.md",
-    "2-永久笔记/1-操作系统/1-进程管理/2a-进程的状态.md",
-    "2-永久笔记/1-操作系统/1-进程管理/为什么需要线程.md",
-    "2-永久笔记/1-操作系统/1-进程管理/最后工作笔记.md",
-    "2-永久笔记/1-操作系统/1-进程管理/2a1-进程的挂起.md",
-    "2-永久笔记/1-操作系统/1-进程管理/2-什么是进程.md",
-    "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/LLM Powered Autonomous Agents.md",
+    "2-永久笔记/1-操作系统/3c1-为什么需要线程.md",
+    "2-永久笔记/1-操作系统/3c2-线程的实现.md",
+    "2-永久笔记/1-操作系统/3c-什么是线程.md",
+    "2-永久笔记/1-操作系统/3b-什么是进程.md",
+    "2-永久笔记/1-操作系统/3a-什么是程序.md",
+    "2-永久笔记/1-操作系统/3-进程管理.md",
+    "2-永久笔记/1-操作系统/0-操作系统.md",
+    "2-永久笔记/1-操作系统/1b-用户态、内核态和CPU特权级别.md",
+    "2-永久笔记/1-操作系统/3c1a-关于线程作为基本调度单位的一点想法.md",
+    "2-永久笔记/1-操作系统/3-进程管理/3c-线程的实现.md",
+    "2-永久笔记/1-操作系统/3b2a-进程控制块的结构.md",
+    "2-永久笔记/1-操作系统/3b2-进程控制块.md",
+    "2-永久笔记/1-操作系统/3b1a-进程的挂起.md",
+    "2-永久笔记/1-操作系统/3b1-进程的状态.md",
+    "2-永久笔记/1-操作系统/1-内核.md",
+    "2-永久笔记/1-操作系统/1a-用户态与内核态.md",
+    "2-永久笔记/1-操作系统/1-内核",
+    "2-永久笔记/1-操作系统/0-索引",
+    "2-永久笔记/3-人工智能/未命名.md",
+    "2-永久笔记/1-操作系统/3-进程管理/最后工作笔记.md",
+    "2-永久笔记/1-操作系统/1-进程管理/2b2-进程控制块的组织.md",
     "3-工作笔记/大模型与点餐场景的结合/理想场景下的点餐场景.md",
+    "2-永久笔记/1-操作系统/1-进程管理/2b2-查看macOS中进程的状态实践.md",
+    "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/LLM Powered Autonomous Agents.md",
     "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/1-MRKL.md",
     "3-工作笔记/大模型与点餐场景的结合",
     "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/0-LLM Agent 工程框架范式.md",
     "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/4-AutoGen多智能体协作范式.md",
     "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/3-BabyAGI范式.md",
-    "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/2-AutoGPT范式.md",
-    "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/AI Agent 研发范式.md",
-    "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/In-Context Learning.md",
-    "2-永久笔记/2-计算机网络/DNS Message.md",
-    "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/Rational Agent.md",
-    "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/Agent.md",
-    "2-永久笔记/3-人工智能/行为主义.md",
-    "2-永久笔记/3-人工智能/连接主义.md",
-    "2-永久笔记/3-人工智能/符号主义.md",
-    "2-永久笔记/1-操作系统/1-进程管理",
+    "2-永久笔记/1-操作系统/3-进程管理",
     "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容",
     "2-永久笔记/999-未分类",
     "2-永久笔记/4-LLM/1-AI Agent/2-工程框架",
     "2-永久笔记/4-LLM/1-AI Agent",
     "2-永久笔记/3-人工智能",
     "3-工作笔记",
-    "0-InBox",
-    "使用说明/配置",
     "操作系统/SCR-20240311-tacf.jpeg"
   ]
 }

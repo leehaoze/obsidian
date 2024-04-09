@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-永久笔记/1-操作系统/3c-什么是线程.md",
-                "mode": "source",
+                "file": "2-永久笔记/1-操作系统/3c2-线程的实现.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -107,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2-永久笔记/1-操作系统/3c-什么是线程.md",
+            "file": "2-永久笔记/1-操作系统/3c2-线程的实现.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2-永久笔记/1-操作系统/3c-什么是线程.md",
+            "file": "2-永久笔记/1-操作系统/3c2-线程的实现.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2-永久笔记/1-操作系统/3c-什么是线程.md"
+            "file": "2-永久笔记/1-操作系统/3c2-线程的实现.md"
           }
         }
       }
@@ -156,6 +156,9 @@
   },
   "active": "640860f1c72e3e7c",
   "lastOpenFiles": [
+    "2-永久笔记/1-操作系统/3c1a-关于线程作为基本调度单位的一点想法.md",
+    "2-永久笔记/1-操作系统/3c1-为什么需要线程.md",
+    "2-永久笔记/1-操作系统/3c-什么是线程.md",
     "2-永久笔记/1-操作系统/1-进程管理/2b1-进程控制块的结构.md",
     "2-永久笔记/1-操作系统/1-进程管理/最后工作笔记.md",
     "2-永久笔记/1-操作系统/1-进程管理/2b-进程控制块.md",
