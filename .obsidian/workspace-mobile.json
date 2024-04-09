@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试.md",
+                "file": "2-永久笔记/1-操作系统/1-进程管理/2b1-进程控制块的结构.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "640860f1c72e3e7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-永久笔记/1-操作系统/1-进程管理/最后工作笔记.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "测试.md",
+            "file": "2-永久笔记/1-操作系统/1-进程管理/最后工作笔记.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "测试.md",
+            "file": "2-永久笔记/1-操作系统/1-进程管理/最后工作笔记.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "测试.md"
+            "file": "2-永久笔记/1-操作系统/1-进程管理/最后工作笔记.md"
           }
         }
       }
@@ -144,8 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5c92fad97ff3ac8",
+  "active": "640860f1c72e3e7c",
   "lastOpenFiles": [
+    "2-永久笔记/1-操作系统/1-进程管理/2b1-进程控制块的结构.md",
+    "2-永久笔记/1-操作系统/1-进程管理/最后工作笔记.md",
+    "2-永久笔记/1-操作系统/1-进程管理/2b-进程控制块.md",
+    "2-永久笔记/1-操作系统/1-进程管理/2a1-进程的挂起.md",
+    "2-永久笔记/1-操作系统/1-进程管理/2a-进程的状态.md",
+    "2-永久笔记/1-操作系统/1-进程管理/0-进程管理.md",
+    "2-永久笔记/1-操作系统/1-进程管理/2-什么是进程.md",
     "测试.md"
   ]
 }
