@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-永久笔记/1-操作系统/3c2-线程的实现.md",
+                "file": "2-永久笔记/999-未分类/mac编译python3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-永久笔记/1-操作系统/3c2-线程的实现.md",
+                "file": "2-永久笔记/999-未分类/mac编译python3.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-永久笔记/1-操作系统/3c2-线程的实现.md",
+                "file": "2-永久笔记/999-未分类/mac编译python3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-永久笔记/1-操作系统/3c2-线程的实现.md"
+                "file": "2-永久笔记/999-未分类/mac编译python3.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-永久笔记/1-操作系统/3c2-线程的实现.md"
+                "file": "2-永久笔记/999-未分类/mac编译python3.md"
               }
             }
           }
@@ -172,8 +172,11 @@
   },
   "active": "2e2e73907e7e5eba",
   "lastOpenFiles": [
-    "2-永久笔记/1-操作系统/3c1-为什么需要线程.md",
+    "2-永久笔记/999-未分类/python顶层代码环境.md",
+    "2-永久笔记/999-未分类/mac编译python3.md",
+    "2-永久笔记/999-未分类/python头部注释.md",
     "2-永久笔记/1-操作系统/3c2-线程的实现.md",
+    "2-永久笔记/1-操作系统/3c1-为什么需要线程.md",
     "2-永久笔记/1-操作系统/3c-什么是线程.md",
     "2-永久笔记/1-操作系统/3b-什么是进程.md",
     "2-永久笔记/1-操作系统/3a-什么是程序.md",
@@ -198,9 +201,6 @@
     "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容/LLM Powered Autonomous Agents.md",
     "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/1-MRKL.md",
     "3-工作笔记/大模型与点餐场景的结合",
-    "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/0-LLM Agent 工程框架范式.md",
-    "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/4-AutoGen多智能体协作范式.md",
-    "2-永久笔记/4-LLM/1-AI Agent/2-工程框架/3-BabyAGI范式.md",
     "2-永久笔记/1-操作系统/3-进程管理",
     "2-永久笔记/4-LLM/1-AI Agent/1-概念性内容",
     "2-永久笔记/999-未分类",
