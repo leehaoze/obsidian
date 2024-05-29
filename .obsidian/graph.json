@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "path:2-永久笔记/1-计算机/1-操作系统  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -12,11 +12,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.675008138020833,
+  "repelStrength": 14.6647135416667,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.7846470091170061,
+  "linkDistance": 168,
+  "scale": 0.8788452315318861,
   "close": true
 }

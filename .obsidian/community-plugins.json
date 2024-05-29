@@ -2,5 +2,7 @@
   "obsidian-linter",
   "dataview",
   "obsidian-style-settings",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "obsidian-electron-window-tweaker",
+  "obsidian-git"
 ]

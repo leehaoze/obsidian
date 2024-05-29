@@ -19,10 +19,20 @@
             "id": "640860f1c72e3e7c",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "1-阅读笔记/图解系统-亮白风格-小林coding-v1.0.pdf"
+              }
+            }
+          },
+          {
+            "id": "50492d1ca11cb1da",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "2-永久笔记/1-操作系统/3c2-线程的实现.md",
-                "mode": "preview",
+                "file": "1-阅读笔记/图解系统.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -30,6 +40,25 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "86b1c1c71f9f5a09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17ac51a743578af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-阅读笔记/图解系统.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +136,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2-永久笔记/1-操作系统/3c2-线程的实现.md",
+            "file": "1-阅读笔记/图解系统.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +153,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2-永久笔记/1-操作系统/3c2-线程的实现.md",
+            "file": "1-阅读笔记/图解系统.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +165,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2-永久笔记/1-操作系统/3c2-线程的实现.md"
+            "file": "1-阅读笔记/图解系统.md"
           }
         }
       }
@@ -154,8 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "640860f1c72e3e7c",
+  "active": "17ac51a743578af4",
   "lastOpenFiles": [
+    "1-阅读笔记/图解系统-亮白风格-小林coding-v1.0.pdf",
+    "1-阅读笔记/图解系统.md",
+    "2-永久笔记/1-操作系统/3c2-线程的实现.md",
     "2-永久笔记/1-操作系统/3c1a-关于线程作为基本调度单位的一点想法.md",
     "2-永久笔记/1-操作系统/3c1-为什么需要线程.md",
     "2-永久笔记/1-操作系统/3c-什么是线程.md",

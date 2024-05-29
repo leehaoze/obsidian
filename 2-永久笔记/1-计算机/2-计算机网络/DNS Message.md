@@ -1,6 +1,6 @@
 ---
 date created: 星期三, 二月 28日 2024, 6:59:45 晚上
-date modified: 星期一, 三月 18日 2024, 7:48:50 晚上
+date modified: 星期四, 五月 9日 2024, 3:35:12 下午
 state: F
 tags: 
 ---
@@ -12,7 +12,7 @@ tags:
 DNS协议中所有的请求和响应都使用`Message`结构，分为5个部分(Section)，可以为空。
 
 ```
-+---------------------+
+    +---------------------+
     |        Header       |
     +---------------------+
     |       Question      | the question for the name server
