@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-永久笔记/1-计算机/1-操作系统/2-内存管理/2-内存管理.md",
+                "file": "2-永久笔记/1-计算机/1-操作系统/0-操作系统.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-永久笔记/1-计算机/1-操作系统/2-内存管理/2-内存管理.md",
+                "file": "2-永久笔记/1-计算机/1-操作系统/0-操作系统.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-永久笔记/1-计算机/1-操作系统/2-内存管理/2-内存管理.md",
+                "file": "2-永久笔记/1-计算机/1-操作系统/0-操作系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-永久笔记/1-计算机/1-操作系统/2-内存管理/2-内存管理.md"
+                "file": "2-永久笔记/1-计算机/1-操作系统/0-操作系统.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-永久笔记/1-计算机/1-操作系统/2-内存管理/2-内存管理.md"
+                "file": "2-永久笔记/1-计算机/1-操作系统/0-操作系统.md"
               }
             }
           }
@@ -177,10 +177,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b4b0c7305fc51237",
+  "active": "93c7399d5fc6b483",
   "lastOpenFiles": [
-    "2-永久笔记/1-计算机/1-操作系统/0-操作系统.md",
     "2-永久笔记/1-计算机/1-操作系统/2-内存管理/2-内存管理.md",
+    "2-永久笔记/1-计算机/1-操作系统/0-操作系统.md",
     "2-永久笔记/1-计算机/1-操作系统/3-进程管理/3e-通信.md",
     "2-永久笔记/1-计算机/1-操作系统/2-内存管理",
     "2-永久笔记/1-计算机/1-操作系统/3-进程管理/3d-调度.md",
