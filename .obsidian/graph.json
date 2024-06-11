@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "path:2-永久笔记/1-计算机/1-操作系统/2-内存管理  ",
+  "collapse-filter": true,
+  "search": "path:2-永久笔记/1-计算机/1-操作系统/",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -12,11 +12,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.649169921875,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "linkDistance": 30,
+  "scale": 0.9035791298870668,
+  "close": false
 }
